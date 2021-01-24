@@ -28,11 +28,11 @@ const ContenedorFrase = styled.div`
   }
 
   p {
-      font-family: Verdana, Geneva, Tahoma, sans-serif;
-      font-size: 1.6rem;
-      text-align: right;
-      color: #666;
-      margin-top: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.6rem;
+    text-align: right;
+    color: #666;
+    margin-top: 2rem;
   }
 `;
 
